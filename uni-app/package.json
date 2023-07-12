@@ -1,0 +1,20 @@
+{
+  "name": "uni-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dcloudio/uni-helper-json": "^1.0.13",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "@types/html5plus": "^1.0.2",
+    "@types/uni-app": "^1.4.4"
+  }
+}
