@@ -7,6 +7,9 @@
 ### 基于uni-app的校园二手交易平台
 
 
+前后端代码请移步其他仓库
+campus-second-hand-trading-platform---front
+campus-second-hand-trading-platform---backend
 
 注：图片无法显示，可查看文件夹下pdf。
 
@@ -14,7 +17,6 @@
 
 联系QQ：738881948
 
-微信：Doraemon_558
 
 
 
