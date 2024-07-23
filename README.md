@@ -13,9 +13,6 @@ campus-second-hand-trading-platform---backend
 
 注：图片无法显示，可查看文件夹下pdf。
 
-可以丰富功能，用于毕业设计。
-
-联系QQ：738881948
 
 
 
